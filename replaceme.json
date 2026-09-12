@@ -1,0 +1,30 @@
+{
+    "haven_location": "Berlin Innovation Hub",
+    "event_name": "Haven Hackathon 2026",
+    "tagline": "Build the Future with AI & Open Source",
+    "start_timestamp": 0,
+    "end_timestamp": 0,
+    "events": [
+        {
+            "id": "event-1",
+            "name": "Opening Ceremony & Team Matchmaking",
+            "description": "Welcome keynote, hackathon theme reveal, rules, and teammate finding.",
+            "category": "Ceremony",
+            "location": "Main Stage",
+            "speaker": "Haven Team",
+            "relative_start_minutes": -60,
+            "relative_duration_minutes": 45
+        }
+    ],
+    "alarms": [
+        {
+            "id": "alarm-12h",
+            "time": 43200,
+            "happened": false,
+            "level": "info",
+            "sound": "chime",
+            "title": "Halfway Mark Reached",
+            "message": "12 HOURS REMAINING! Make sure your core features are taking shape."
+        }
+    ]
+}
