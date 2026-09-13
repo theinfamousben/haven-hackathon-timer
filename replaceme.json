@@ -1,15 +1,14 @@
 {
-    "haven_location": "Berlin Innovation Hub",
+    "haven_location": "Musterstadt",
     "event_name": "Haven Hackathon 2026",
-    "tagline": "Build the Future with AI & Open Source",
-    "start_timestamp": 0,
-    "end_timestamp": 0,
+    "tagline": "Do some fun stuff",
+    "start_timestamp": 1789337100,
+    "end_timestamp": 1789337104,
     "events": [
         {
             "id": "event-1",
             "name": "Opening Ceremony & Team Matchmaking",
             "description": "Welcome keynote, hackathon theme reveal, rules, and teammate finding.",
-            "category": "Ceremony",
             "location": "Main Stage",
             "speaker": "Haven Team",
             "relative_start_minutes": -60,
